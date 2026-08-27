@@ -1,0 +1,12 @@
+{
+  "js/ts.tsdk.path": "node_modules\\typescript\\lib",
+  "prettier.configPath": "prettier.config.js"
+  // "leetcode.workspaceFolder": "...\\ts-lc\\src",
+  // "leetcode.defaultLanguage": "typescript",
+  // "leetcode.filePath": {
+  //   "default": {
+  //     "folder": "",
+  //     "filename": "${id}.${kebab-case-name}.${ext}"
+  //   }
+  // }
+}

@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "leetcode.vscode-leetcode",
+    "yoavbls.pretty-ts-errors",
+    "orta.vscode-twoslash-queries",
+    "wallabyjs.quokka-vscode"
+  ]
+}
