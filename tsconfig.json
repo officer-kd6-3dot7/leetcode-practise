@@ -23,10 +23,7 @@
     "noEmit": true,
     "module": "ESNext",
     "moduleResolution": "Bundler",
-    "incremental": true,
-
-    /* Path Aliases */
-    "baseUrl": "."
+    "incremental": true
   },
   "include": ["**/*.ts", "**/*.cjs", "**/*.js"],
   "exclude": ["node_modules"]
